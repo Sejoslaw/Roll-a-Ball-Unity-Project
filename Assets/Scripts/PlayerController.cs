@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-	}
+    }
 
     // FixedUpdate is called before any physics calculations
     void FixedUpdate()
